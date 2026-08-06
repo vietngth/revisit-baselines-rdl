@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+features/
+results.csv
+.venv/
+*.npz
