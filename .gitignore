@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+features/
+predictions/
+projections/
+logs/
+*.csv
